@@ -145,11 +145,11 @@ function onclickLeft() {
 }
 
 function onclickRight() {
-    direction = 'UP';
+    direction = 'RIGHT';
 }
 
 function onclickUp() {
-    direction = 'RIGHT';
+    direction = 'UP';
 }
 
 function onclickDown() {
